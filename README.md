@@ -97,3 +97,5 @@ $ ./bin/bc -computeWorkers 16 -startNode 0 /mnt/nvme/rmat27.gr.index /mnt/nvme/r
 The number of IO thread is automatically determined by Blaze depending on the number of given partitions. In the above examples, we use one partition.
 
 ## Reproducing results
+
+For now, we are working on automating the process to get the result of papers in simple steps.
